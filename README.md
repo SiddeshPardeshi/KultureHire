@@ -16,4 +16,6 @@ For Exploratory Data Analysis (EDA), MySQL Workbench was used to extract key ins
 
 For the Executive Dashboard, Pivot Tables were used in Excel to create interactive summaries and visualizations. Key metrics such as industry preferences, salary expectations, work model choices, and job selection factors were analyzed. Charts and graphs were incorporated to highlight trends, comparisons, and insights from the data. This dashboard provided a clear and concise overview, enabling stakeholders to quickly understand Gen-Z’s career aspirations and the gaps between their expectations and employer perceptions.
 
+![Image](https://github.com/user-attachments/assets/910ad485-9029-4295-8cd3-c5b374902e03)
+
 
