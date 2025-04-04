@@ -23,3 +23,7 @@ For the Executive Dashboard, Pivot Tables were used in Excel to create interacti
 ![Image](https://github.com/user-attachments/assets/fc8d7f18-9c26-45f3-8f4d-76e15ba39105)
 
 ![Image](https://github.com/user-attachments/assets/08f6c54e-c640-4ec8-a281-69b9a2fb791a)
+
+
+## Conclusion:
+The analysis reveals a gap between Gen-Z’s career expectations and employer strategies, especially in salary, work models, and job preferences. Bridging this requires better communication, flexibility, and career growth opportunities to attract and retain Gen-Z talent.
