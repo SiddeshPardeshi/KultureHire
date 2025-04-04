@@ -20,4 +20,4 @@ For the Executive Dashboard, Pivot Tables were used in Excel to create interacti
 
 ![Image](https://github.com/user-attachments/assets/69a86a6d-7884-4aca-839f-e5fbb7b236a8)
 
-![Image](https://github.com/user-attachments/assets/69a86a6d-7884-4aca-839f-e5fbb7b236a8)
+
